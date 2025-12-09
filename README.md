@@ -5,30 +5,13 @@ Bienvenido/a a mi perfil de GitHub. Aquí encontrarás mis proyectos, prácticas
 
 🚀 Tecnologías con las que trabajo
 🧠 Lenguajes
+![C](https://img.shields.io/badge/C_language-283593?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-Python 🐍
-
-Java ☕
-
-Kotlin (Android) 🤖
-
-C / C#
-
-HTML5, CSS3
-
-GDScript (Godot) 🎮
-
-🛠️ Herramientas & Frameworks
-
-Android Studio
-
-.NET MAUI
-
-Godot Engine
-
-Git & GitHub
-
-Visual Studio / IntelliJ / VS Code
 
 🔥 Proyectos destacados
 🎮 Juego en Godot
