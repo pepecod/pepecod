@@ -1,11 +1,16 @@
 👋 ¡Hola! Soy Jose Manuel Carmona Gaviño
+
 💻 Desarrollador de Aplicaciones Multiplataforma | 2º DAM | Apasionado por crear, aprender y mejorar
+
 
 Bienvenido/a a mi perfil de GitHub. Aquí encontrarás mis proyectos, prácticas y experimentos mientras avanzo en el mundo del desarrollo de software. Me gusta aprender nuevas tecnologías, resolver problemas y construir cosas que funcionen… y si además quedan guapas, mejor. 😄
 
+
 🚀 Tecnologías con las que trabajo
 
+
 🧠 Lenguajes
+
 
 ![C](https://img.shields.io/badge/C_language-283593?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
