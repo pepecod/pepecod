@@ -45,7 +45,7 @@ Optimización en videojuegos Godot
 
 📫 Contacto
 
-📧 (tu email aquí)
+📧 pcpepevillamanrique@gmail.com
 🐙 GitHub: @pepecod
 
 ✨ Frase que me representa
